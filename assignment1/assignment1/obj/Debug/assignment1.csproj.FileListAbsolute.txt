@@ -1,0 +1,7 @@
+D:\route\projects\session 02\task1\assignment1\assignment1\bin\Debug\assignment1.exe.config
+D:\route\projects\session 02\task1\assignment1\assignment1\bin\Debug\assignment1.exe
+D:\route\projects\session 02\task1\assignment1\assignment1\bin\Debug\assignment1.pdb
+D:\route\projects\session 02\task1\assignment1\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+D:\route\projects\session 02\task1\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+D:\route\projects\session 02\task1\assignment1\assignment1\obj\Debug\assignment1.exe
+D:\route\projects\session 02\task1\assignment1\assignment1\obj\Debug\assignment1.pdb
